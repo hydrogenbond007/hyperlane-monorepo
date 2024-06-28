@@ -1,5 +1,14 @@
 # @hyperlane-xyz/cli
 
+## 4.1.0
+
+### Patch Changes
+
+- 378a5b79f: Remove extra fields from warp core config
+- Updated dependencies [36e75af4e]
+  - @hyperlane-xyz/sdk@4.1.0
+  - @hyperlane-xyz/utils@4.1.0
+
 ## 4.0.0
 
 ### Major Changes

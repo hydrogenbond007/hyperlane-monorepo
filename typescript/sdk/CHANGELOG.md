@@ -1,5 +1,16 @@
 # @hyperlane-xyz/sdk
 
+## 4.1.0
+
+### Minor Changes
+
+- 36e75af4e: Add optional deployer field to ChainMetadata schema
+
+### Patch Changes
+
+- @hyperlane-xyz/core@4.1.0
+- @hyperlane-xyz/utils@4.1.0
+
 ## 4.0.0
 
 ### Minor Changes
