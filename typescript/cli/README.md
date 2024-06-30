@@ -1,6 +1,6 @@
 # Hyperlane CLI
 
-The Hyperlane CLI is a command-line tool written in Typescript that facilitates common operations on Hyperlane, such as deploying the core contracts and/or warp routes to new chains.
+The Hyperlane CLI is a command-line tool written in Typescript that facilitates common operations on Hyperlane, such as deploying the core contracts and/or warp routes to new chains + interacting with the [Hyperlane AVS](https://docs.hyperlane.xyz/docs/guides/avs-operator-guide)
 
 ## Hyperlane overview
 
@@ -55,6 +55,8 @@ Run warp route deployments: `hyperlane deploy warp`
 View SDK contract addresses: `hyperlane chains addresses`
 
 Send test message: `hyperlane send message`
+
+-  use arg `--key`, `--private-key`, `--seed-phrase` to add hex private key/seed phrase or use the HYP_K EY env var.
 
 ## Logging
 
